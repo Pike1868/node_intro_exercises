@@ -1,0 +1,14 @@
+{
+  "name": "node_intro_exercise",
+  "version": "1.0.0",
+  "description": "Exercises to node intro section",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Mendoza",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
